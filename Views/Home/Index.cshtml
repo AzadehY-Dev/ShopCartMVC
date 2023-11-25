@@ -1,0 +1,17 @@
+﻿@model IEnumerable<ShopCart_MVC.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+@foreach (var item in Model)
+{
+    <div class="col-lg-4 text-center">
+        <img style="margin: 0 auto;" src="/ProductImages/@item.ImageName"/>
+        <h2 class="text-center">@item.ProductTitle</h2>
+        <p class="text-success text-center">@item.Price.ToString("#,0 تومان")</p>
+        <p class="text-center"><a class="btn btn-primary" onclick="AddToCart(@item.ProductID)" role="button">خرید</a>
+        </p>
+    </div>
+}
+
+

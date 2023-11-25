@@ -1,0 +1,119 @@
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\csc.exe
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\vbc.exe
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.dll.config
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.pdb
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Helpers.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Mvc.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Razor.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Razor.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Helpers.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Mvc.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.pdb
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.Migrations.CreateDatabase.resources
+C:\Users\Iman\Documents\Visual Studio 2015\Projects\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csproj.GenerateResource.Cache
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\csc.exe
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\vbc.exe
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.dll.config
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.pdb
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Helpers.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Mvc.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Razor.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Razor.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Helpers.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Mvc.xml
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csprojResolveAssemblyReference.cache
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.Migrations.CreateDatabase.resources
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csproj.GenerateResource.Cache
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.dll
+C:\Users\Madaeny\Desktop\TopLearn.Com_ShopCart_MVC\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.pdb
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csproj.AssemblyReference.cache
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.Migrations.CreateDatabase.resources
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csproj.GenerateResource.cache
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csproj.CoreCompileInputs.cache
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.pdb
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\csc.exe
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\vbc.exe
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.dll.config
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\ShopCart_MVC.pdb
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Helpers.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Mvc.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Razor.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Razor.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Helpers.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\bin\System.Web.Mvc.xml
+C:\Users\AZAD\Desktop\آموزش\mvc پیشرفته\ShopCart_MVC\ShopCart_MVC\obj\Debug\ShopCart_MVC.csproj.CopyComplete
